@@ -1,5 +1,3 @@
-package bj_9020_골드바흐의추측;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
