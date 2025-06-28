@@ -1,5 +1,3 @@
-package bj_2469_사다리타기;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
