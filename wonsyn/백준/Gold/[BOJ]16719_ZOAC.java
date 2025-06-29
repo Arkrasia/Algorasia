@@ -1,5 +1,3 @@
-package bj_16719_ZOAC;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
