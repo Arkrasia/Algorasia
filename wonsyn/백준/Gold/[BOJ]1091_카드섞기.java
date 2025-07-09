@@ -1,5 +1,3 @@
-package bj_1091_카드섞기;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
